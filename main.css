@@ -4,31 +4,8 @@ body, html {
 	margin: 0;
 }
 
-h1 {
-	height: 100%;
-	width: 100%;
-	margin: 0 auto;
-
-	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img/greenpepper.JPG");
-	background-repeat: no-repeat;
-	background-position: center top;
-	background-size: cover;
-
-	text-align: center;
-	color: white;
-	font-family: Georgia, serif;
-	/*font-size: 300%;*/
-	/*letter-spacing: 0.5em;*/
-
-	/*line-height: 500%;*/
+.menu {
+    color: rgb(255,255,255);
+    background-color: rgb(0,102,0);
 }
 
-.title {
-	font-size: 250%;
-	letter-spacing: 0.5em;
-}
-
-.subtitle {
-	font-size: 100%;
-	letter-spacing: 0.2em;
-}
