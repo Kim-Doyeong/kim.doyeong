@@ -7,7 +7,7 @@ body, html {
 .menu {
     color: rgb(255,255,255);
     background-color: rgb(0,102,0);
-    
+    align: center;     
 }
 
 .menu-item {
@@ -17,7 +17,6 @@ body, html {
     padding-left: 10px;
     padding-right: 10px;
     float: left;
-    align: center;
 }
 
 /* for float: left; */
