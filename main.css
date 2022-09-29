@@ -4,6 +4,10 @@ body, html {
 	margin: 0;
 }
 
+.container-top {
+    align: center
+}
+
 .menu {
     color: rgb(255,255,255);
     background-color: rgb(0,102,0);
