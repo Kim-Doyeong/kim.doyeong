@@ -71,6 +71,15 @@ body, html {
     float: left;
 }
 
+.mainbody-text-research {
+    margin-top: 7%;
+    margin-left: 7%;
+    margin-bottom: 10%;
+    width: 85%;
+    float: bottom;
+    line-height: 2.0;
+}
+
 .mainbody-image {
     margin-left: 0%;
     margin-right: 7%;
@@ -80,6 +89,15 @@ body, html {
     display: block;
 }
 
+.mainbody-image-research {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 1px;
+    padding-bottom: 50px;
+    width: 80%;
+    float: top;
+    display: block;
+}
 
 .footer {
     float: left;
